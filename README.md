@@ -1,9 +1,9 @@
-## Amazon Web Scraping With Python
+# Amazon Web Scraping With Python
 
-# Project Overview
+## Project Overview
 Scraping Data from Amazon using Python
 
-# Resources
+## Resources
 1. Data Source:
 - Amazon
 
@@ -11,13 +11,13 @@ Scraping Data from Amazon using Python
 - Jupyter Notebook
 - Python (Pandas)
 
-# Connect to Website
+## Connect to Website
 
 
-# Add title, datetime, csv, and pandas
+## Add title, datetime, csv, and pandas
 
 
-# Append Data to csv
+## Append Data to csv
 
 
-# Create function to Check Price
+## Create function to Check Price
