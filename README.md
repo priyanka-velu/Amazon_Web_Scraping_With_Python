@@ -6,7 +6,7 @@ This project aims to automate the process of monitoring product prices on Amazon
 ## Resources
 
 ### Data Source
-- [Amazon Product Link](https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1)
+- [Amazon](https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data%2Banalyst%2Btshirt&qid=1626655184&sr=8-3&customId=B0752XJYNL&th=1)
 
 ### Software
 - [Jupyter Notebook](https://github.com/priyanka-velu/Amazon_Web_Scraper/blob/main/Amazon_Web_Scraping_Python_Pandas.ipynb)
