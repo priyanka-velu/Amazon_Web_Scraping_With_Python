@@ -1,4 +1,4 @@
-# Amazon Web Scraping With Python
+# Python Amazon Web Scraper
 
 ## Project Overview
 This project aims to automate the process of monitoring product prices on Amazon using Python. By leveraging web scraping techniques, the project collects and analyzes data on product pricing, helping data analysts track price trends and identify potential cost-saving opportunities. The data is extracted and stored in a structured format, enabling further analysis and visualization. Additionally, the project includes functionality to send email notifications when significant price changes occur, ensuring timely updates for better decision-making. The tools used in this project include requests and BeautifulSoup for web scraping, pandas for data manipulation, and standard libraries for email automation.
